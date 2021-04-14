@@ -33,4 +33,4 @@
 <p><a href="https://www.buymeacoffee.com/WillBaldridge"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="WillBaldridge" /></a></p><br><br>
 
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&section=footer)
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=150&section=footer)

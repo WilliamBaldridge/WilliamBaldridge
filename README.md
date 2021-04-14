@@ -1,4 +1,5 @@
-# Hello there, 👋 Thanks for dropping in!
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=300&section=header&text=Hello%20there,:wave:%20Thanks%20for%20dropping%20in!&fontSize=45)
+# 
 <br>
 
 - 🔭 I’m currently working on **Adlister (think craigslist)**
@@ -30,3 +31,6 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/WillBaldridge"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="WillBaldridge" /></a></p><br><br>
+
+
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=300&section=footer&text=capsule%20render&fontSize=90)

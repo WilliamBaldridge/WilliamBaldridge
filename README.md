@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Adlister (think craigslist)**
 
-- 🌱 I’m currently learning **Java and SpringBoot, and C# and .NET 5.0**
+- :octocat: I’m currently learning **Java and SpringBoot, and C# and .NET 5.0**
 
 - 💬 Ask me about **Business (consulting)**
 

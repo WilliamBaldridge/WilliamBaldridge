@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=200&section=header&text=Hello%20there,%20Thanks%20for%20dropping%20in!&fontSize=45)
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=175&section=header&text=Hello%20there,%20&#128075;%20Thanks%20for%20dropping%20in!&fontSize=45)
 # 
 <br>
 

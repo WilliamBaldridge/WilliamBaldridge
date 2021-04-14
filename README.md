@@ -1,4 +1,4 @@
-# Hello there, 👋 William Baldridge here. Thanks for dropping in!
+# Hello there, 👋 Thanks for dropping in!
 <br>
 
 - 🔭 I’m currently working on **Adlister (think craigslist)**

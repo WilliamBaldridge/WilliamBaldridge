@@ -30,7 +30,7 @@
 ![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Editor-Visual_Studio-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) 
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/WillBaldridge"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="WillBaldridge" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/WillBaldridge"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="30" width="125" alt="WillBaldridge" /></a></p><br><br>
 
 
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=150&section=footer)

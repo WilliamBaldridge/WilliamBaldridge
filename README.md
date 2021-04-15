@@ -1,17 +1,16 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=150&section=header&text=Hello%20there,%20&#128075;%20Thanks%20for%20dropping%20in!&fontSize=45)
-# 
+
 <br>
 
+- ⚡ Fun fact: **Poet in the kitchen**
 
+- 💬 Ask me about **Business (consulting)**
+  
 - 🔭 I’m currently working on **Adlister (think craigslist)**
 
-  - :octocat: I’m currently learning **Java and SpringBoot, and C# and .NET 5.0**
-
-    - 💬 Ask me about **Business (consulting)**
-
-  - ⚡ Fun fact: **Poet in the kitchen**
-
 - 📫 How to reach me **baldridge.william09@gmail.com** or
+
+- :octocat: I’m currently learning **Java and SpringBoot, and C# and .NET 5.0**
 
 
 <h3 align="left">Connect with me: <a href="https://linkedin.com/in/william-baldridge" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="william-baldridge" /></a></h3>

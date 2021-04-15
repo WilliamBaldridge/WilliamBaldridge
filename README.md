@@ -15,6 +15,7 @@
 
 
 <h3 align="left">Connect with me: <a href="https://linkedin.com/in/william-baldridge" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="william-baldridge" /></a></h3>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamBaldridge&hide=Jupyter&layout=compact&theme=dracula)](https://github.com/WilliamBaldridge)
 
 [![WilliamBaldridge's GitHub stats](https://github-readme-stats.vercel.app/api?username=WilliamBaldridge&show_icons=true&hide=stars&theme=onedark)](https://github.com/WilliamBaldridge)

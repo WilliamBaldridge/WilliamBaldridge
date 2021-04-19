@@ -20,7 +20,6 @@
 [![WilliamBaldridge's GitHub stats](https://github-readme-stats.vercel.app/api?username=WilliamBaldridge&show_icons=true&hide=stars&theme=onedark)](https://github.com/WilliamBaldridge)
 
 
-
 <h3 align="left">Languages and Tools:</h3>
 
 ![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=apple&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Editor-Visual_Studio-informational?style=flat&logo=visual-studio&logoColor=white&color=2bbc8a)

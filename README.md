@@ -19,7 +19,6 @@
 
 [![WilliamBaldridge's GitHub stats](https://github-readme-stats.vercel.app/api?username=WilliamBaldridge&show_icons=true&hide=stars&theme=onedark)](https://github.com/WilliamBaldridge)
 
-
 <h3 align="left">Languages and Tools:</h3>
 
 ![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=apple&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Editor-Visual_Studio-informational?style=flat&logo=visual-studio&logoColor=white&color=2bbc8a)
@@ -28,7 +27,6 @@
 ![](https://img.shields.io/badge/Tool-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Tool-Jasmine-informational?style=flat&logo=jasmine&logoColor=white&color=2bbc8a)  ![](https://img.shields.io/badge/Tool-Thymeleaf-informational?style=flat&logo=thymeleaf&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Tool-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Framework-.NET_5.0-informational?style=flat&logo=.net&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Framework-Spring-informational?style=flat&logo=spring&logoColor=white&color=2bbc8a)
 
 ![](https://img.shields.io/badge/Code-C:hash:-informational?style=flat&logo=c-sharp&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a) 
-
 
 
 <h3 align="left">Support:</h3>

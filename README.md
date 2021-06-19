@@ -3,12 +3,12 @@
 <br>
 
 - ⚡ Fun fact: **Poet in the kitchen**
-  
-- 🔭 I’m currently working on **Tier 1 Hire**
 
 - 💬 Ask me about **Business (consulting)**
 
 - 📫 How to reach me **baldridge.william09@gmail.com**
+
+- 🔭 I’m currently working on **touching up skills and more :octocat:**
 
 - :octocat: I’m currently learning **Java and SpringBoot, and C# and .NET 5.0**
 

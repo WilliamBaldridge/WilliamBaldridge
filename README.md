@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **touching up skills and more :octocat:**
 
-- :octocat: I’m currently learning **Java and SpringBoot, C# and .NET 5.0, and algos**
+- :octocat: I’m currently learning **Java and SpringBoot, C# and .NET 5.0, and algos/data structures**
 
 
 <h3 align="left">Connect with me on <a href="https://linkedin.com/in/william-baldridge" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="william-baldridge" /></a></h3>

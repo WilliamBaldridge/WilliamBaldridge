@@ -28,7 +28,7 @@
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 
  ![](https://img.shields.io/badge/Tool-Jasmine-informational?style=flat&logo=jasmine&logoColor=white&color=2bbc8a)  ![](https://img.shields.io/badge/Tool-Thymeleaf-informational?style=flat&logo=thymeleaf&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Tool-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Tool-Postman-informational?style=flat&logo=postman&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Framework-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=2bbc8a)
- ![](https://img.shields.io/badge/Framework-.NET_5.0-informational?style=flat&logo=dot-net&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Framework-Spring-informational?style=flat&logo=spring&logoColor=white&color=2bbc8a) 
+ ![](https://img.shields.io/badge/Framework-.NET_5.0-informational?style=flat&logo=dotnet&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Framework-Spring-informational?style=flat&logo=spring&logoColor=white&color=2bbc8a) 
 
 
 <h3 align="left">Support:</h3>

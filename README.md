@@ -10,7 +10,7 @@
 
 - :octocat: I’m currently learning **algos/data structures**
 
-- 🔭 I’m currently working on **touching up java and more :octocat:**
+- 🔭 I’m currently working on **an animation for a demo and more :octocat:**
 
 
 <h3 align="left">Connect with me on <a href="https://linkedin.com/in/william-baldridge" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="william-baldridge" /></a></h3>
